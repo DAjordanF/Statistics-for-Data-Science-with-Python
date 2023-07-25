@@ -2,7 +2,7 @@
 
 ## Contents
 
-#Lab work week 1-6
+# Lab work week 1-6
 1. Introduction to probability distribution
 2. Visualising Data
 3. Descriptive statistics
