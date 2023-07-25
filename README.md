@@ -29,4 +29,4 @@
 3. Exploratory Data Analysis (EDA\
 4. Descriptive Statistics\
 5. Statistical Analysis\
-6. Conclusion](https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/StatProject/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04_(2).ipynb)https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/StatProject/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04_(2).ipynb
+6. Conclusion]\(https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/StatProject/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04_(2).ipynb)https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/StatProject/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04_(2).ipynb
