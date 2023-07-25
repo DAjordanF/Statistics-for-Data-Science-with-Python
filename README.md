@@ -23,7 +23,7 @@
 [6. Statistics for Data Science with Python](https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/Labwork/6.%20Statistics%20for%20Data%20Science%20with%20Python.ipynb)
 
 
-### Statistics Project: [Boston Housing Data Analysis using Python] (https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/StatProject/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04_(2).ipynb)https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/StatProject/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04_(2).ipynb
+### Statistics Project: [Boston Housing Data Analysis using Python] (https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/StatProject/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04_(2).ipynb)https://github.com/DAjordanF/Statistics-for-Data-Science-with-Python/blob/main/StatProject/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04_(2).ipynb)
 1. Introduction
 2. Data Wrangling
 3. Exploratory Data Analysis (EDA
